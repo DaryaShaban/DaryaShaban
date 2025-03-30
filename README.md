@@ -2,7 +2,7 @@
 
 **My name is Darya Shaban**.
 
-I am a Data Scientist at DELVE. I lead projects for non-profits and for-profits, working with tradaitional machine learning, time series and statistical models.
+I am a Data Scientist at DELVE. I lead projects for nonprofits and for-profits, working with traditional machine learning, time series and statistical models.
 
 This repository stores my out-of-work projects.
 
